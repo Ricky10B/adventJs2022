@@ -1,0 +1,36 @@
+# AdventJs 2022
+
+Mis soluciones a los retos del adventJs 2022, una iniciativa de midudev.
+
+<div align='center'>
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' alt='Insignia de Javascript' />
+  <img src='https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white' alt='Insignia de Jest' />
+  <img src='https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white' alt='Insignia de NPM' />
+</div>
+
+| Día | Imagen                                                                               | Título                                            | Dificultad | Retos                                                    | Solución                            |
+| --- | ------------------------------------------------------------------------------------ | ------------------------------------------------- | ---------- | -------------------------------------------------------- | ----------------------------------- |
+| 01  | <img src='https://adventjs.dev/challenges-2022/1.svg' width='50px' height='50px' />  | Automatizando envolver regalos de navidad         | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/1)  | [Solución](./retos/reto1/index.js)  |
+| 02  | <img src='https://adventjs.dev/challenges-2022/2.svg' width='50px' height='50px' />  | Nadie quiere hacer horas extras                   | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/2)  | [Solución](./retos/reto2/index.js)  |
+| 03  | <img src='https://adventjs.dev/challenges-2022/3.svg' width='50px' height='50px' />  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/3)  | [Solución](./retos/reto3/index.js)  |
+| 04  | <img src='https://adventjs.dev/challenges-2022/4.svg' width='50px' height='50px' />  | Una caja dentro de otra caja y otra...            | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/4)  | [Solución](./retos/reto4/index.js)  |
+| 05  | <img src='https://adventjs.dev/challenges-2022/5.svg' width='50px' height='50px' />  | Optimizando viajes de Santa                       | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/5)  | [Solución](./retos/reto5/index.js)  |
+| 06  | <img src='https://adventjs.dev/challenges-2022/6.svg' width='50px' height='50px' />  | Creando adornos navideños                         | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/6)  | [Solución](./retos/reto6/index.js)  |
+| 07  | <img src='https://adventjs.dev/challenges-2022/7.svg' width='50px' height='50px' />  | Haciendo inventario de regalos                    | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/7)  | [Solución](./retos/reto7/index.js)  |
+| 08  | <img src='https://adventjs.dev/challenges-2022/8.svg' width='50px' height='50px' />  | ¡Necesitamos un mecánico!                         | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/8)  | [Solución](./retos/reto8/index.js)  |
+| 09  | <img src='https://adventjs.dev/challenges-2022/9.svg' width='50px' height='50px' />  | Las locas luces de navidad                        | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/9)  | [Solución](./retos/reto9/index.js)  |
+| 10  | <img src='https://adventjs.dev/challenges-2022/10.svg' width='50px' height='50px' /> | El salto del trineo de Papá Noel                  | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/10) | [Solución](./retos/reto10/index.js) |
+| 11  | <img src='https://adventjs.dev/challenges-2022/11.svg' width='50px' height='50px' /> | Papá Noel es Scrum Master                         | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/11) | [Solución](./retos/reto11/index.js) |
+| 12  | <img src='https://adventjs.dev/challenges-2022/12.svg' width='50px' height='50px' /> | Trineos eléctricos ¡guau!                         | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/12) | [Solución](./retos/reto12/index.js) |
+| 13  | <img src='https://adventjs.dev/challenges-2022/13.svg' width='50px' height='50px' /> | Backup de los archivos de Papá Noel               | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/13) | [Solución](./retos/reto13/index.js) |
+| 14  | <img src='https://adventjs.dev/challenges-2022/14.svg' width='50px' height='50px' /> | El mejor camino                                   | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/14) | [Solución](./retos/reto14/index.js) |
+| 15  | <img src='https://adventjs.dev/challenges-2022/15.svg' width='50px' height='50px' /> | Decorando el árbol de Navidad                     | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/15) | [Solución](./retos/reto15/index.js) |
+| 16  | <img src='https://adventjs.dev/challenges-2022/16.svg' width='50px' height='50px' /> | Arreglando las cartas de Papá Noel                | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/16) | [Solución](./retos/reto16/index.js) |
+| 17  | <img src='https://adventjs.dev/challenges-2022/17.svg' width='50px' height='50px' /> | Llevando los regalos en sacos                     | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/17) | [Solución](./retos/reto17/index.js) |
+| 18  | <img src='https://adventjs.dev/challenges-2022/18.svg' width='50px' height='50px' /> | ¡Nos quedamos sin tinta!                          | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/18) | [Solución](./retos/reto18/index.js) |
+| 19  | <img src='https://adventjs.dev/challenges-2022/19.svg' width='50px' height='50px' /> | Ordenando los regalos                             | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/19) | [Solución](./retos/reto19/index.js) |
+| 20  | <img src='https://adventjs.dev/challenges-2022/20.svg' width='50px' height='50px' /> | Más viajes retadores                              | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/20) | [Solución](./retos/reto20/index.js) |
+| 21  | <img src='https://adventjs.dev/challenges-2022/21.svg' width='50px' height='50px' /> | Creando la tabla de regalos                       | Medio      | [Ir al reto](https://adventjs.dev/es/challenges/2022/21) | [Solución](./retos/reto21/index.js) |
+| 22  | <img src='https://adventjs.dev/challenges-2022/22.svg' width='50px' height='50px' /> | La iluminación en sintonía                        | Fácil      | [Ir al reto](https://adventjs.dev/es/challenges/2022/22) | [Solución](./retos/reto22/index.js) |
+| 23  | <img src='https://adventjs.dev/challenges-2022/23.svg' width='50px' height='50px' /> | Compilador de Papá Noel                           | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/23) | [Solución](./retos/reto23/index.js) |
+| 24  | <img src='https://adventjs.dev/challenges-2022/24.svg' width='50px' height='50px' /> | El último reto es un laberinto                    | Difícil    | [Ir al reto](https://adventjs.dev/es/challenges/2022/24) | [Solución](./retos/reto24/index.js) |

@@ -1,0 +1,46 @@
+{
+  "name": "adventjs-2022",
+  "version": "1.0.0",
+  "description": "Mis soluciones a los retos del adventjs 2022",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "jest:reto1": "jest -i retos/reto1/index.test.js",
+    "jest:reto2": "jest -i retos/reto2/index.test.js",
+    "jest:reto3": "jest -i retos/reto3/index.test.js",
+    "jest:reto4": "jest -i retos/reto4/index.test.js",
+    "jest:reto5": "jest -i retos/reto5/index.test.js",
+    "jest:reto6": "jest -i retos/reto6/index.test.js",
+    "jest:reto7": "jest -i retos/reto7/index.test.js",
+    "jest:reto8": "jest -i retos/reto8/index.test.js",
+    "jest:reto9": "jest -i retos/reto9/index.test.js",
+    "jest:reto10": "jest -i retos/reto10/index.test.js",
+    "jest:reto11": "jest -i retos/reto11/index.test.js",
+    "jest:reto12": "jest -i retos/reto12/index.test.js",
+    "jest:reto13": "jest -i retos/reto13/index.test.js",
+    "jest:reto14": "jest -i retos/reto14/index.test.js",
+    "jest:reto15": "jest -i retos/reto15/index.test.js",
+    "jest:reto16": "jest -i retos/reto16/index.test.js",
+    "jest:reto17": "jest -i retos/reto17/index.test.js",
+    "jest:reto18": "jest -i retos/reto18/index.test.js",
+    "jest:reto19": "jest -i retos/reto19/index.test.js",
+    "jest:reto20": "jest -i retos/reto20/index.test.js",
+    "jest:reto21": "jest -i retos/reto21/index.test.js",
+    "jest:reto22": "jest -i retos/reto22/index.test.js",
+    "jest:reto23": "jest -i retos/reto23/index.test.js",
+    "jest:reto24": "jest -i retos/reto24/index.test.js"
+  },
+  "author": "Ricky Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ricky10B/adventJs2022.git"
+  },
+  "homepage": "https://github.com/Ricky10B/adventJs2022#readme",
+  "bugs": {
+    "url": "https://github.com/Ricky10B/adventJs2022/issues"
+  }
+}
